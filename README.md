@@ -1,2 +1,1 @@
-# Nutrifood
-project wild code school
+Nutrifood
